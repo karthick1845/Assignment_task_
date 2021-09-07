@@ -35,10 +35,10 @@
 
   5) Check a name of weight name :yolov4.weights
 
-  Type in command prompt :
+  [Type all commands in command prompt]
 
   6) Convert darknet weights into tensorflow model:
-  python save_model.py --model yolov4
+   python save_model.py --model yolov4
 
   7) Run yolov4 deep sort object tracker on video:
 
