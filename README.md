@@ -1,5 +1,3 @@
-# "Write a program to count the number of instances for each object class in the given traffic video clip. The count should be with respect to entire video and not with respect to single frame"
-
  To create an object tracking using Deep sort[Simple Online and Realtime Tracking with a Deep Association Metric] for tracking an each object in given output.
  
  * To detect an object using yolov4
